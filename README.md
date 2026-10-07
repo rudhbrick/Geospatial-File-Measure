@@ -8,8 +8,8 @@ feature, and returns area (polygons) and length (lines) measured in metres.
 Requires Python 3.10+ (developed on 3.13).
 
 ```bash
-git clone [YOUR REPO URL]
-cd geo-measure-api
+git clone https://github.com/rudhbrick/Geospatial-File-Measure.git
+cd Geospatial-File-Measure
 python -m venv .venv
 # Windows: .venv\Scripts\activate    Mac/Linux: source .venv/bin/activate
 pip install -r requirements.txt
