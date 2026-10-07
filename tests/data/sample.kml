@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+  <Placemark><name>square_1km</name>
+    <Polygon><outerBoundaryIs><LinearRing><coordinates>77.5946,12.9716,0 77.60381835071794,12.9716,0 77.60381835071794,12.980643717329572,0 77.5946,12.980643717329572,0 77.5946,12.9716,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark><name>line_1km</name>
+    <LineString><coordinates>77.5946,12.9716,0 77.60381835071794,12.9716,0</coordinates></LineString>
+  </Placemark>
+  <Placemark><name>marker</name>
+    <Point><coordinates>77.5946,12.9716,920</coordinates></Point>
+  </Placemark>
+</Document></kml>
